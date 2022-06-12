@@ -1,3 +1,2 @@
-hffdkdfkgkddj
-gggggg
-ffffff
+int y =20;
+cout<<y;
